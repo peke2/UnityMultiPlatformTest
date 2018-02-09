@@ -1,0 +1,22 @@
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+
+*.log
+*.exe
+WebGL
+
+# Visual Studio Cビルド用
+*.VC.db
+*.VC.opendb
+*.idb
+*.ipch
+*.pch
+*.pdb
+[Rr]elease/
+[Dd]ebug/
+*.exp
+*.ilk
+*.obj
+
+.vs/
